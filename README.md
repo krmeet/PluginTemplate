@@ -1,6 +1,6 @@
 # Rojo Plugin Template
 
-To use this template, it is recommended to use [this Code extension](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) for handling placeholders.
+It's recommended to use [this Code extension](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) for handling placeholders.
 
 ## Requirements
 
